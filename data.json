@@ -5,7 +5,7 @@
       "name": "AKUN FF SULTAN",
       "spec": "Spesifikasi silahkan hubungi no utama/lainnya",
       "price": 500000,
-      "status": "sold",
+      "status": "ready",
       "thumbnail": "https://raw.githubusercontent.com/digiix/data-web/main/uploads/1788531992997_file_00000000303882079e70a1aadd2e37b8.png",
       "image": "https://raw.githubusercontent.com/digiix/data-web/main/uploads/1788531997489_IMG-20260902-WA0013.jpg"
     },
@@ -46,12 +46,6 @@
       "image": ""
     }
   ],
-  "sales": [
-    {
-      "id": "001",
-      "price": 500000,
-      "date": "2026-09-04T15:02:18.552Z"
-    }
-  ],
+  "sales": [],
   "isOnline": true
 }
