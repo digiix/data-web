@@ -1,0 +1,50 @@
+{
+  "accounts": [
+    {
+      "id": "001",
+      "name": "AKUN FF SULTAN",
+      "spec": "Spesifikasi silahkan hubungi no utama/lainnya",
+      "price": 500000,
+      "status": "sold",
+      "thumbnail": "",
+      "image": ""
+    },
+    {
+      "id": "002",
+      "name": "AKUN OLD PLAYER",
+      "spec": "Spesifikasi silahkan hubungi no utama/lainnya",
+      "price": 200000,
+      "status": "ready",
+      "thumbnail": "",
+      "image": ""
+    },
+    {
+      "id": "003",
+      "name": "AKUN FF SULTAN",
+      "spec": "Spesifikasi silahkan hubungi no utama/lainnya",
+      "price": 130000,
+      "status": "ready",
+      "thumbnail": "",
+      "image": ""
+    },
+    {
+      "id": "004",
+      "name": "AKUN FF SULTAN",
+      "spec": "Spesifikasi silahkan hubungi no utama/lainnya",
+      "price": 100000,
+      "status": "ready",
+      "thumbnail": "",
+      "image": ""
+    },
+    {
+      "id": "005",
+      "name": "AKUN FF SULTAN",
+      "spec": "Spesifikasi silahkan hubungi no utama/lainnya",
+      "price": 500000,
+      "status": "ready",
+      "thumbnail": "",
+      "image": ""
+    }
+  ],
+  "sales": []
+}
