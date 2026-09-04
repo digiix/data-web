@@ -44,22 +44,7 @@
       "status": "ready",
       "thumbnail": "",
       "image": ""
-    },
-    {
-      "id": "099",
-      "name": "akun epep",
-      "spec": "kontol kuda",
-      "price": 150000,
-      "status": "sold",
-      "thumbnail": "",
-      "image": ""
     }
   ],
-  "sales": [
-    {
-      "id": "099",
-      "price": 150000,
-      "date": "2026-09-04T01:53:30.848Z"
-    }
-  ]
+  "sales": []
 }
