@@ -13,8 +13,8 @@
       "id": "002",
       "name": "AKUN OLD PLAYER",
       "spec": "Spesifikasi silahkan hubungi no utama/lainnya",
-      "price": 200000,
-      "status": "ready",
+      "price": 9616100000,
+      "status": "sold",
       "thumbnail": "https://raw.githubusercontent.com/digiix/data-web/main/uploads/1788511358799_705828.jpg",
       "image": ""
     },
@@ -46,6 +46,12 @@
       "image": ""
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "id": "002",
+      "price": 9616100000,
+      "date": "2026-09-21T02:58:17.900Z"
+    }
+  ],
   "isOnline": true
 }
